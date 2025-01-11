@@ -244,3 +244,12 @@ git remote
 git remote add origin https://github.com/RizqullahY/freecodecamp-learnbash.git
 git init
 git remote add origin https://github.com/RizqullahY/freecodecamp-learnbash.git
+git add .
+git rm --cached 
+git rm --cached ./
+git rm --cached project
+git commit -m "Initial Commit!"
+git push origin master
+cd project/
+rm -rf .git
+cd ..

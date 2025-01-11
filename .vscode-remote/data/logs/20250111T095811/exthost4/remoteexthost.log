@@ -22,3 +22,6 @@
 2025-01-11 11:10:03.690 [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
 2025-01-11 11:12:58.402 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
 2025-01-11 11:12:58.445 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2025-01-11 11:13:09.828 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
+2025-01-11 11:13:59.418 [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+2025-01-11 11:14:28.809 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1201

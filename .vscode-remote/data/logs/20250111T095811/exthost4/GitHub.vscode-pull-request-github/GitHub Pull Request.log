@@ -26,3 +26,16 @@
 2025-01-11 11:12:59.368 [info] No GitHub remotes found for folder /workspace
 2025-01-11 11:12:59.378 [info] Review+1> No matching pull request metadata found locally for current branch master
 2025-01-11 11:12:59.386 [info] Review+1> No matching pull request metadata found on GitHub for current branch master
+2025-01-11 11:13:09.830 [info] Review+1> Validate state in progress
+2025-01-11 11:13:09.830 [info] Review+1> Validating state...
+2025-01-11 11:13:10.023 [info] Found GitHub remote for folder /workspace
+2025-01-11 11:13:10.347 [info] Trying to use globalState for assignableUsers.
+2025-01-11 11:13:10.361 [info] Review+1> No matching pull request metadata found locally for current branch master
+2025-01-11 11:13:10.371 [info] Review+1> No matching pull request metadata found on GitHub for current branch master
+2025-01-11 11:13:10.977 [info] No globalState for assignableUsers.
+2025-01-11 11:14:28.810 [info] Review+1> Validate state in progress
+2025-01-11 11:14:28.810 [info] Review+1> Validating state...
+2025-01-11 11:14:29.124 [info] Found GitHub remote for folder /workspace
+2025-01-11 11:14:29.124 [info] Using in-memory cached assignable users.
+2025-01-11 11:14:29.136 [info] Review+1> No matching pull request metadata found locally for current branch master
+2025-01-11 11:14:29.143 [info] Review+1> No matching pull request metadata found on GitHub for current branch master
