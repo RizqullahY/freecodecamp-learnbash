@@ -265,3 +265,9 @@ git rm --cached
 git remote
 cd ..
 git add 
+git add .
+git commit -m "FIXING Childing git"
+git push origin master
+git pull origin master
+git push origin master
+git push origin master --force
