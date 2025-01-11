@@ -253,3 +253,15 @@ git push origin master
 cd project/
 rm -rf .git
 cd ..
+git add .
+git commit -m "CHORE: remove childing git"
+git push origin master
+git push origin master --force
+cd project/
+rm -rf .git
+git 
+git remote
+git rm --cached
+git remote
+cd ..
+git add 

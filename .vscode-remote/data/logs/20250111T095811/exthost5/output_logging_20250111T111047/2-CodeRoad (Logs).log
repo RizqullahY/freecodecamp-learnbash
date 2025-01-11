@@ -116,3 +116,27 @@ COMMAND: npm run programmatic-test --reporter=mocha-tap-reporter
 Calling command: npm run programmatic-test --reporter=mocha-tap-reporter
 ---------------- TEST RESULTS -----------------
 TEST_FAIL
+------------------- RUN TEST -------------------
+START_TEST
+COMMAND: npm run programmatic-test --reporter=mocha-tap-reporter
+Calling command: npm run programmatic-test --reporter=mocha-tap-reporter
+---------------- TEST RESULTS -----------------
+TEST_FAIL
+------------------- RUN TEST -------------------
+START_TEST
+COMMAND: npm run programmatic-test --reporter=mocha-tap-reporter
+Calling command: npm run programmatic-test --reporter=mocha-tap-reporter
+---------------- TEST RESULTS -----------------
+TEST_FAIL
+------------------- RUN TEST -------------------
+START_TEST
+COMMAND: npm run programmatic-test --reporter=mocha-tap-reporter
+Calling command: npm run programmatic-test --reporter=mocha-tap-reporter
+---------------- TEST RESULTS -----------------
+TEST_FAIL
+------------------- RUN TEST -------------------
+START_TEST
+COMMAND: npm run programmatic-test --reporter=mocha-tap-reporter
+Calling command: npm run programmatic-test --reporter=mocha-tap-reporter
+---------------- TEST RESULTS -----------------
+TEST_FAIL

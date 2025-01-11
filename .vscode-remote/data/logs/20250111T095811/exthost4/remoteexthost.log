@@ -25,3 +25,83 @@
 2025-01-11 11:13:09.828 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
 2025-01-11 11:13:59.418 [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
 2025-01-11 11:14:28.809 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1201
+2025-01-11 11:26:45.588 [error] Error: Git error
+	at ChildProcess.<anonymous> (/ide/extensions/git/dist/main.js:2:1058252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-11 11:26:45.588 [error] Error: Git error
+	at ChildProcess.<anonymous> (/ide/extensions/git/dist/main.js:2:1058252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-11 11:26:45.588 [error] Error: Git error
+	at ChildProcess.<anonymous> (/ide/extensions/git/dist/main.js:2:1058252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-11 11:26:45.588 [error] Error: Git error
+	at ChildProcess.<anonymous> (/ide/extensions/git/dist/main.js:2:1058252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-11 11:26:45.588 [error] Error: Git error
+	at ChildProcess.<anonymous> (/ide/extensions/git/dist/main.js:2:1058252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-11 11:26:45.588 [error] Error: Git error
+	at ChildProcess.<anonymous> (/ide/extensions/git/dist/main.js:2:1058252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-11 11:26:45.588 [error] Error: Git error
+	at ChildProcess.<anonymous> (/ide/extensions/git/dist/main.js:2:1058252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-11 11:26:45.588 [error] Error: Git error
+	at ChildProcess.<anonymous> (/ide/extensions/git/dist/main.js:2:1058252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-11 11:26:46.589 [error] Error: Git error
+	at ChildProcess.<anonymous> (/ide/extensions/git/dist/main.js:2:1058252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-11 11:26:46.589 [error] Error: Git error
+	at ChildProcess.<anonymous> (/ide/extensions/git/dist/main.js:2:1058252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-11 11:26:46.590 [error] Error: Git error
+	at ChildProcess.<anonymous> (/ide/extensions/git/dist/main.js:2:1058252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-11 11:26:46.590 [error] Error: Git error
+	at ChildProcess.<anonymous> (/ide/extensions/git/dist/main.js:2:1058252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-11 11:26:46.590 [error] Error: Git error
+	at ChildProcess.<anonymous> (/ide/extensions/git/dist/main.js:2:1058252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-11 11:26:46.590 [error] Error: Git error
+	at ChildProcess.<anonymous> (/ide/extensions/git/dist/main.js:2:1058252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-11 11:26:46.591 [error] Error: Git error
+	at ChildProcess.<anonymous> (/ide/extensions/git/dist/main.js:2:1058252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-11 11:26:46.591 [error] Error: Git error
+	at ChildProcess.<anonymous> (/ide/extensions/git/dist/main.js:2:1058252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-11 11:27:47.282 [warning] [Decorations] CAPPING events from decorations provider vscode.git 293
+2025-01-11 11:27:48.805 [warning] [Decorations] CAPPING events from decorations provider vscode.git 257
+2025-01-11 11:27:58.856 [warning] [Decorations] CAPPING events from decorations provider vscode.git 257
+2025-01-11 11:28:03.880 [warning] [Decorations] CAPPING events from decorations provider vscode.git 257
+2025-01-11 11:28:06.555 [warning] [Decorations] CAPPING events from decorations provider vscode.git 257
+2025-01-11 11:28:08.904 [warning] [Decorations] CAPPING events from decorations provider vscode.git 257
+2025-01-11 11:28:13.926 [warning] [Decorations] CAPPING events from decorations provider vscode.git 257
+2025-01-11 11:28:18.951 [warning] [Decorations] CAPPING events from decorations provider vscode.git 257
+2025-01-11 11:28:23.974 [warning] [Decorations] CAPPING events from decorations provider vscode.git 257
+2025-01-11 11:28:26.007 [warning] [Decorations] CAPPING events from decorations provider vscode.git 257
+2025-01-11 11:28:28.998 [warning] [Decorations] CAPPING events from decorations provider vscode.git 257
+2025-01-11 11:28:34.021 [warning] [Decorations] CAPPING events from decorations provider vscode.git 257
+2025-01-11 11:28:39.045 [warning] [Decorations] CAPPING events from decorations provider vscode.git 257
+2025-01-11 11:28:42.596 [warning] [Decorations] CAPPING events from decorations provider vscode.git 257
+2025-01-11 11:28:43.676 [warning] [Decorations] CAPPING events from decorations provider vscode.git 257
+2025-01-11 11:28:44.068 [warning] [Decorations] CAPPING events from decorations provider vscode.git 257
