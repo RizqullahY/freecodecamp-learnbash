@@ -63,3 +63,9 @@
 2025-01-11 11:29:04.291 [info] Using in-memory cached assignable users.
 2025-01-11 11:29:04.302 [info] Review+0> No matching pull request metadata found locally for current branch master
 2025-01-11 11:29:04.320 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
+2025-01-11 11:31:15.681 [info] Review+0> Validate state in progress
+2025-01-11 11:31:15.681 [info] Review+0> Validating state...
+2025-01-11 11:31:15.955 [info] Found GitHub remote for folder /workspace/project
+2025-01-11 11:31:15.956 [info] Using in-memory cached assignable users.
+2025-01-11 11:31:15.965 [info] Review+0> No matching pull request metadata found locally for current branch master
+2025-01-11 11:31:15.971 [info] Review+0> No matching pull request metadata found on GitHub for current branch master

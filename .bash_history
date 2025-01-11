@@ -271,3 +271,10 @@ git push origin master
 git pull origin master
 git push origin master
 git push origin master --force
+git add .
+cd project/
+cd ..
+git commit -m "CHORE: cleaning repo"
+git push origin maste
+git push origin master
+ga .
