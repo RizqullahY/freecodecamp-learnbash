@@ -1,0 +1,28 @@
+2025-01-11 11:09:17.439 [warning] /home/gitpod/.ssh/config: ENOENT: no such file or directory, open '/home/gitpod/.ssh/config'
+2025-01-11 11:09:17.439 [info] Activation> Extension version: 0.102.0
+2025-01-11 11:09:19.712 [info] Looking for git repository
+2025-01-11 11:09:19.712 [info] Found 0 repositories during activation
+2025-01-11 11:09:19.712 [info] Git repository found, initializing review manager and pr tree view.
+2025-01-11 11:09:19.716 [info] Registering git provider
+2025-01-11 11:09:19.716 [info] Review+0> Validate state in progress
+2025-01-11 11:09:19.716 [info] Review+0> Validating state...
+2025-01-11 11:09:19.906 [info] Found GitHub remote for folder /workspace/project
+2025-01-11 11:09:20.179 [info] Trying to use globalState for assignableUsers.
+2025-01-11 11:09:20.300 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-01-11 11:09:20.746 [info] Using globalState assignableUsers for 1.
+2025-01-11 11:09:21.391 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-01-11 11:09:34.226 [info] Repo state for file:///workspace/project changed.
+2025-01-11 11:09:34.226 [info] Repo file:///workspace/project has already been setup.
+2025-01-11 11:12:58.366 [info] Repository file:///workspace has been opened
+2025-01-11 11:12:58.366 [info] Review+1> Validate state in progress
+2025-01-11 11:12:58.366 [info] Review+1> Validating state...
+2025-01-11 11:12:58.367 [warning] No remotes found. The following remotes are missing: origin, upstream
+2025-01-11 11:12:58.367 [info] No GitHub remotes found for folder /workspace
+2025-01-11 11:12:58.405 [info] Review+1> Queuing additional validate state
+2025-01-11 11:12:58.405 [info] Repo state for file:///workspace changed.
+2025-01-11 11:12:58.405 [info] Repo file:///workspace has already been setup.
+2025-01-11 11:12:59.368 [info] Review+1> Validating state...
+2025-01-11 11:12:59.368 [warning] No remotes found. The following remotes are missing: origin, upstream
+2025-01-11 11:12:59.368 [info] No GitHub remotes found for folder /workspace
+2025-01-11 11:12:59.378 [info] Review+1> No matching pull request metadata found locally for current branch master
+2025-01-11 11:12:59.386 [info] Review+1> No matching pull request metadata found on GitHub for current branch master

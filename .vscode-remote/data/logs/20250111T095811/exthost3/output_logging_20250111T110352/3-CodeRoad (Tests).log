@@ -1,0 +1,8 @@
+FAILED TEST LOG
+  ✘ tests should pass
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'exit')
+
+at Context.<anonymous> (test/1530.test.js:8:5)

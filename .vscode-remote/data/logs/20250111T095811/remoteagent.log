@@ -1,0 +1,99 @@
+2025-01-11 09:58:11.369 [info] 
+
+
+
+
+2025-01-11 09:58:11.388 [info] Extension host agent started.
+2025-01-11 09:58:11.403 [info] Started initializing default profile extensions in extensions installation folder. file:///workspace/.vscode-remote/extensions
+2025-01-11 09:58:11.523 [info] Completed initializing default profile extensions in extensions installation folder. file:///workspace/.vscode-remote/extensions
+2025-01-11 09:58:11.556 [info] Extension 'gitpod.gitpod-theme' v0.0.2 is already installed. Use '--force' option to update to latest version or provide '@<version>' to install a specific version, for example: 'gitpod.gitpod-theme@1.2.3'.
+2025-01-11 09:58:12.797 [info] Installing builtin extension 'github.vscode-pull-request-github'...
+2025-01-11 09:58:12.818 [info] Getting Manifest... github.vscode-pull-request-github
+2025-01-11 09:58:13.129 [info] Installing extension: github.vscode-pull-request-github {"isMachineScoped":true,"installPreReleaseVersion":false,"isBuiltin":true,"installGivenVersion":false,"isApplicationScoped":true,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/workspace/.vscode-remote/extensions/extensions.json","external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.96.0","date":"2024-12-12T15:48:17.497Z"}}
+2025-01-11 09:58:14.685 [error] Could not load vsce-sign module Cannot find package 'node-ovsx-sign' imported from /ide/out/server-main.js
+2025-01-11 09:58:14.686 [info] Extension signature verification is not done: github.vscode-pull-request-github
+2025-01-11 09:58:14.790 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.102.0-universal: github.vscode-pull-request-github
+2025-01-11 09:58:14.795 [info] Renamed to /workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.102.0-universal
+2025-01-11 09:58:14.809 [info] Extension installed successfully: github.vscode-pull-request-github file:///workspace/.vscode-remote/extensions/extensions.json
+2025-01-11 09:58:14.809 [info] Extension 'github.vscode-pull-request-github' v0.102.0 was successfully installed.
+2025-01-11 09:58:14.813 [info] Installing extensions...
+2025-01-11 09:58:15.164 [info] Installing extension 'coderoad.coderoad'...
+2025-01-11 09:58:15.164 [info] Getting Manifest... coderoad.coderoad
+2025-01-11 09:58:15.335 [info] Installing extension: coderoad.coderoad {"isMachineScoped":true,"installPreReleaseVersion":false,"isApplicationScoped":true,"isBuiltin":false,"installGivenVersion":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/workspace/.vscode-remote/extensions/extensions.json","external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.96.0","date":"2024-12-12T15:48:17.497Z"}}
+2025-01-11 09:58:16.106 [error] Could not load vsce-sign module Cannot find package 'node-ovsx-sign' imported from /ide/out/server-main.js
+2025-01-11 09:58:16.106 [info] Extension signature verification is not done: coderoad.coderoad
+2025-01-11 09:58:16.195 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/coderoad.coderoad-0.19.4-universal: coderoad.coderoad
+2025-01-11 09:58:16.201 [info] Renamed to /workspace/.vscode-remote/extensions/coderoad.coderoad-0.19.4-universal
+2025-01-11 09:58:16.241 [info] Extension installed successfully: coderoad.coderoad file:///workspace/.vscode-remote/extensions/extensions.json
+2025-01-11 09:58:16.242 [info] Extension 'coderoad.coderoad' v0.19.4 was successfully installed.
+2025-01-11 09:58:31.147 [info] [192.168.95.201][22c26da7][ManagementConnection] New connection established.
+2025-01-11 09:58:35.304 [info] [192.168.95.201][28658509][ExtensionHostConnection] New connection established.
+2025-01-11 09:58:35.309 [info] [192.168.95.201][28658509][ExtensionHostConnection] <156> Launched Extension Host Process.
+2025-01-11 09:58:38.259 [info] Getting Manifest... xabikos.javascriptsnippets
+2025-01-11 09:58:38.884 [info] Installing extension: xabikos.javascriptsnippets {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":true,"installPreReleaseVersion":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/workspace/.vscode-remote/extensions/extensions.json","external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.96.0","date":"2024-12-12T15:48:17.497Z"}}
+2025-01-11 09:58:38.886 [info] Installing the extension without checking dependencies and pack xabikos.javascriptsnippets
+2025-01-11 09:58:39.313 [error] Could not load vsce-sign module Cannot find package 'node-ovsx-sign' imported from /ide/out/server-main.js
+2025-01-11 09:58:39.313 [info] Extension signature verification is not done: xabikos.javascriptsnippets
+2025-01-11 09:58:39.322 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/xabikos.javascriptsnippets-1.8.0-universal: xabikos.javascriptsnippets
+2025-01-11 09:58:39.324 [info] Renamed to /workspace/.vscode-remote/extensions/xabikos.javascriptsnippets-1.8.0-universal
+2025-01-11 09:58:39.337 [info] Extension installed successfully: xabikos.javascriptsnippets file:///workspace/.vscode-remote/extensions/extensions.json
+2025-01-11 09:58:40.097 [info] Getting Manifest... pkief.material-icon-theme
+2025-01-11 09:58:40.263 [info] Installing extension: pkief.material-icon-theme {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":true,"installPreReleaseVersion":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/workspace/.vscode-remote/extensions/extensions.json","external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.96.0","date":"2024-12-12T15:48:17.497Z"}}
+2025-01-11 09:58:40.263 [info] Installing the extension without checking dependencies and pack pkief.material-icon-theme
+2025-01-11 09:58:41.817 [error] Could not load vsce-sign module Cannot find package 'node-ovsx-sign' imported from /ide/out/server-main.js
+2025-01-11 09:58:41.817 [info] Extension signature verification is not done: pkief.material-icon-theme
+2025-01-11 09:58:42.392 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/pkief.material-icon-theme-5.17.0-universal: pkief.material-icon-theme
+2025-01-11 09:58:42.414 [info] Renamed to /workspace/.vscode-remote/extensions/pkief.material-icon-theme-5.17.0-universal
+2025-01-11 09:58:42.428 [info] Extension installed successfully: pkief.material-icon-theme file:///workspace/.vscode-remote/extensions/extensions.json
+2025-01-11 09:58:49.531 [info] Getting Manifest... xabikos.javascriptsnippets
+2025-01-11 09:58:49.532 [info] Getting Manifest... pkief.material-icon-theme
+2025-01-11 09:58:50.167 [info] Installing extension: xabikos.javascriptsnippets {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.0","date":"2024-12-12T15:48:17.497Z"}}
+2025-01-11 09:58:50.167 [info] Installing extension: pkief.material-icon-theme {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.0","date":"2024-12-12T15:48:17.497Z"}}
+2025-01-11 09:58:50.168 [info] Installing the extension without checking dependencies and pack xabikos.javascriptsnippets
+2025-01-11 09:58:50.168 [info] Installing the extension without checking dependencies and pack pkief.material-icon-theme
+2025-01-11 09:58:50.192 [info] Extension installed successfully: xabikos.javascriptsnippets file:///workspace/.vscode-remote/extensions/extensions.json
+2025-01-11 09:58:50.192 [info] Extension installed successfully: pkief.material-icon-theme file:///workspace/.vscode-remote/extensions/extensions.json
+2025-01-11 10:06:55.018 [info] [192.168.95.201][e027ac6c][ManagementConnection] New connection established.
+2025-01-11 10:06:56.926 [warning] RequestStore#acceptReply was called without receiving a matching request 66
+2025-01-11 10:06:56.926 [warning] RequestStore#acceptReply was called without receiving a matching request 67
+2025-01-11 10:06:56.926 [warning] RequestStore#acceptReply was called without receiving a matching request 68
+2025-01-11 10:06:56.926 [warning] RequestStore#acceptReply was called without receiving a matching request 69
+2025-01-11 10:06:56.926 [warning] RequestStore#acceptReply was called without receiving a matching request 70
+2025-01-11 10:06:56.926 [warning] RequestStore#acceptReply was called without receiving a matching request 71
+2025-01-11 10:06:56.926 [warning] RequestStore#acceptReply was called without receiving a matching request 72
+2025-01-11 10:06:56.926 [warning] RequestStore#acceptReply was called without receiving a matching request 73
+2025-01-11 10:06:56.926 [warning] RequestStore#acceptReply was called without receiving a matching request 74
+2025-01-11 10:06:56.927 [warning] RequestStore#acceptReply was called without receiving a matching request 75
+2025-01-11 10:06:56.927 [warning] RequestStore#acceptReply was called without receiving a matching request 76
+2025-01-11 10:06:56.927 [warning] RequestStore#acceptReply was called without receiving a matching request 77
+2025-01-11 10:06:56.927 [warning] RequestStore#acceptReply was called without receiving a matching request 78
+2025-01-11 10:07:00.330 [info] [192.168.69.10][6bfe5635][ExtensionHostConnection] New connection established.
+2025-01-11 10:07:00.335 [info] [192.168.69.10][6bfe5635][ExtensionHostConnection] <2960> Launched Extension Host Process.
+2025-01-11 10:07:02.933 [warning] RequestStore#acceptReply was called without receiving a matching request 79
+2025-01-11 10:07:02.933 [warning] RequestStore#acceptReply was called without receiving a matching request 80
+2025-01-11 10:07:02.934 [warning] RequestStore#acceptReply was called without receiving a matching request 81
+2025-01-11 10:07:02.934 [warning] RequestStore#acceptReply was called without receiving a matching request 82
+2025-01-11 10:07:02.934 [warning] RequestStore#acceptReply was called without receiving a matching request 83
+2025-01-11 10:07:02.934 [warning] RequestStore#acceptReply was called without receiving a matching request 84
+2025-01-11 10:07:02.934 [warning] RequestStore#acceptReply was called without receiving a matching request 85
+2025-01-11 10:07:02.934 [warning] RequestStore#acceptReply was called without receiving a matching request 86
+2025-01-11 10:07:02.934 [warning] RequestStore#acceptReply was called without receiving a matching request 87
+2025-01-11 10:07:02.934 [warning] RequestStore#acceptReply was called without receiving a matching request 88
+2025-01-11 10:07:02.934 [warning] RequestStore#acceptReply was called without receiving a matching request 89
+2025-01-11 10:07:02.934 [warning] RequestStore#acceptReply was called without receiving a matching request 90
+2025-01-11 10:07:02.934 [warning] RequestStore#acceptReply was called without receiving a matching request 91
+2025-01-11 10:07:11.034 [info] [192.168.95.201][e027ac6c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-11 10:07:11.097 [info] [192.168.69.10][6bfe5635][ExtensionHostConnection] <2960> Extension Host Process exited with code: 0, signal: null.
+2025-01-11 11:00:06.561 [info] [192.168.95.201][22c26da7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-11 11:00:06.640 [info] [192.168.95.201][28658509][ExtensionHostConnection] <156> Extension Host Process exited with code: 0, signal: null.
+2025-01-11 11:03:47.696 [info] [192.168.171.139][f346a3ec][ManagementConnection] New connection established.
+2025-01-11 11:03:48.252 [info] [192.168.69.10][7ef21ffc][ExtensionHostConnection] New connection established.
+2025-01-11 11:03:48.258 [info] [192.168.69.10][7ef21ffc][ExtensionHostConnection] <22899> Launched Extension Host Process.
+2025-01-11 11:09:00.446 [info] [192.168.171.139][f346a3ec][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-11 11:09:00.551 [info] [192.168.69.10][7ef21ffc][ExtensionHostConnection] <22899> Extension Host Process exited with code: 0, signal: null.
+2025-01-11 11:09:12.728 [info] [192.168.95.201][fd754f4b][ManagementConnection] New connection established.
+2025-01-11 11:09:13.526 [info] [192.168.95.201][668d7688][ExtensionHostConnection] New connection established.
+2025-01-11 11:09:13.532 [info] [192.168.95.201][668d7688][ExtensionHostConnection] <23384> Launched Extension Host Process.
+2025-01-11 11:10:44.933 [info] [192.168.95.201][7ba7e44e][ManagementConnection] New connection established.
+2025-01-11 11:10:45.541 [info] [192.168.69.10][fb764fa7][ExtensionHostConnection] New connection established.
+2025-01-11 11:10:45.554 [info] [192.168.69.10][fb764fa7][ExtensionHostConnection] <23740> Launched Extension Host Process.
